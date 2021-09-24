@@ -14,7 +14,6 @@ A Curious Databeing wandering the Planet :earth_asia: with a sole purpose to und
 
 As Bruce Lee quoted:
 > Be water, my friend.
-- 
 
 <!---
 i-vishnuraj/i-vishnuraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
