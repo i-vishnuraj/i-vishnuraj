@@ -1,10 +1,10 @@
 👋Hi, I’m Vishnuraj Rajendran
 
-A Curious Databeing wandering the Planet :earth_asia: with a sole purpose to understand life through data. You might not see much repos in here since I was lost. But now I have regained the interest and aspirations. 
+A Curious Databeing wandering the Planet :earth_asia: with a sole purpose to understand life through data. You might not see much repos in here since I was lost. But now I have regained my interests and aspirations. 
 
 - :hearts: I am an **AWS Certified Solution Architect Associate** and an **ITIL v4** Professional.
 
-- 👀 I’m interested in learning, sharing and growning. 
+- 👀 I’m interested in learning, sharing and growing. 
 
 - 🌱 I’m currently learning Python from the start. Polishing the corners of knowledge to make it shine :gem:
 
