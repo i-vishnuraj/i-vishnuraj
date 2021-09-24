@@ -1,4 +1,4 @@
-👋 ## Hi, I’m Vishnuraj Rajendran
+👋Hi, I’m Vishnuraj Rajendran
 
 A Curious Databeing wandering the Planet :earth_asia: with a sole purpose to understand life through data. You might not see much repos in here since I was lost. But now I have regained the interest and aspirations. 
 
