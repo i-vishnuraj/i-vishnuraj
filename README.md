@@ -2,7 +2,7 @@
 
 A Curious Databeing wandering the Planet :earth_asia: with a sole purpose to understand life through data. You might not see much repos in here since I was lost. But now I have regained my interests and aspirations. 
 
-- :hearts: I am an **AWS Certified Solution Architect Associate** and an **ITIL v4** Professional.
+- :hearts: I am certified on **AWS Certified Data Analytics Specialty**, **AWS Solution Architect Associate** and **ITIL v4**.
 
 - 👀 I’m interested in learning, sharing and growing. 
 
